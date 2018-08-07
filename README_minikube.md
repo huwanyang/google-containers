@@ -13,6 +13,9 @@ k8s.gcr.io/kubernetes-dashboard-amd64                   		v1.8.1
 k8s.gcr.io/etcd-amd64                      						3.1.12
 k8s.gcr.io/pause-amd64                     						3.1
 k8s.gcr.io/kube-addon-manager                           		v8.6
+k8s.gcr.io/k8s-dns-sidecar-amd64                                1.14.5
+k8s.gcr.io/k8s-dns-kube-dns-amd64                               1.14.5
+k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64                          1.14.5
 k8s.gcr.io/defaultbackend                               		1.4
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller  0.16.2
 
